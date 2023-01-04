@@ -28,3 +28,11 @@
 	padding: 5px 10px;
 	background-color: #31b572;
 }
+
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
