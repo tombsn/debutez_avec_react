@@ -15,7 +15,7 @@ function Categories({ setActiveCategory, categories, activeCategory }) {
 					</option>
 				))}
 			</select>
-			<button onClick={() => setActiveCategory('')}>Réinitialiser</button>
+			<button className='reinit-button' onClick={() => setActiveCategory('')}>Réinitialiser</button>
 		</div>
 	)
 }

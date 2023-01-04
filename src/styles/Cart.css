@@ -26,6 +26,8 @@
 }
 
 .lmj-cart-closed {
+	background-color: #31b572;
+	color: white;
 	padding: 32px;
 	width: 300px;
 }
